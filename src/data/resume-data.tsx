@@ -14,7 +14,7 @@ export const RESUME_DATA = {
     </>
   ),
   avatarUrl: "https://avatars.githubusercontent.com/josh-fisherr",
-  personalWebsiteUrl: "",
+  personalWebsiteUrl: "https://josh-fisherr.vercel.app",
   contact: {
     email: "joshfisher@chapman.edu",
     tel: "(301) 456-9500",
