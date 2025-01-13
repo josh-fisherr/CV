@@ -7,12 +7,8 @@ export const RESUME_DATA = {
   locationLink: "https://maps.app.goo.gl/9wEgD3dtC7e1aaj57",
   about:
     "Software Engineering Student | Passionate about using technology to help people | Founder of Bathroom Hub iOS App | Experienced in C++, Python, Swift, and cloud technologies",
-  summary: (
-    <>
-      Hi! I&apos;m Joshua Fisher, a software engineering student at Chapman University. 
-      I love creating impactful applications and exploring new technologies. My passion lies in solving real-world problems through code and contributing to meaningful projects.
-    </>
-  ),
+  summary:
+    "Hi! I'm Joshua Fisher, a software engineering student at Chapman University. I love creating impactful applications and exploring new technologies. My passion lies in solving real-world problems through code and contributing to meaningful projects.",
   avatarUrl: "https://avatars.githubusercontent.com/josh-fisherr",
   personalWebsiteUrl: "",
   contact: {
@@ -56,15 +52,8 @@ export const RESUME_DATA = {
       logo: "",
       start: "June 2024",
       end: "Present",
-      description: (
-        <>
-          Designed and developed &apos;Bathroom Hub,&apos; an iOS app enabling users to find and share bathroom access codes.
-          <ul>
-            <li>Integrated Apple Maps for location tracking</li>
-            <li>Used Firebase for secure data storage</li>
-          </ul>
-        </>
-      ),
+      description:
+        "Designed and developed 'Bathroom Hub,' an iOS app enabling users to find and share bathroom access codes. Integrated Apple Maps for location tracking and used Firebase for secure data storage.",
     },
     {
       company: "Chapman University GCI Lab",
@@ -74,15 +63,8 @@ export const RESUME_DATA = {
       logo: "",
       start: "Jan 2023",
       end: "Present",
-      description: (
-        <>
-          Assisted student teams in designing and prototyping GCI projects.
-          <ul>
-            <li>Supervised equipment like 3D printers, laser cutters, and CNC machines</li>
-            <li>Ensured safety and proper equipment usage</li>
-          </ul>
-        </>
-      ),
+      description:
+        "Assisted student teams in designing and prototyping GCI projects. Supervised equipment like 3D printers, laser cutters, and CNC machines, ensuring safety and proper usage.",
     },
     {
       company: "Lexploration LLC.",
@@ -92,15 +74,8 @@ export const RESUME_DATA = {
       logo: "",
       start: "May 2021",
       end: "June 2021",
-      description: (
-        <>
-          Collaborated on mental health-focused apps, learning Swift and improving UX design.
-          <ul>
-            <li>Enhanced Ace Parking&apos;s interface for user accessibility</li>
-            <li>Applied user-centered design principles to improve app usability</li>
-          </ul>
-        </>
-      ),
+      description:
+        "Collaborated on mental health-focused apps, learning Swift and improving UX design. Enhanced Ace Parking's interface for user accessibility and applied user-centered design principles to improve usability.",
     },
     {
       company: "Sage IT",
@@ -110,15 +85,8 @@ export const RESUME_DATA = {
       logo: "",
       start: "Jan 2021",
       end: "June 2022",
-      description: (
-        <>
-          Resolved technical issues for over 100 clients.
-          <ul>
-            <li>Specialized in networking and software troubleshooting</li>
-            <li>Improved client satisfaction with consistent follow-ups</li>
-          </ul>
-        </>
-      ),
+      description:
+        "Resolved technical issues for over 100 clients. Specialized in networking and software troubleshooting, and improved client satisfaction with consistent follow-ups.",
     },
   ],
   skills: [
@@ -139,15 +107,8 @@ export const RESUME_DATA = {
     {
       title: "Bathroom Hub",
       techStack: ["Swift", "Firebase", "Firestore"],
-      description: (
-        <>
-          Location-based iOS app for users to find bathroom access codes.
-          <ul>
-            <li>Features real-time updates</li>
-            <li>Integrated Apple Maps for navigation</li>
-          </ul>
-        </>
-      ),
+      description:
+        "Location-based iOS app for users to find bathroom access codes. Features real-time updates and integrates Apple Maps for navigation.",
       logo: "",
       link: {
         label: "GitHub Repo",
@@ -157,15 +118,8 @@ export const RESUME_DATA = {
     {
       title: "Oil Sensor Development",
       techStack: ["C++"],
-      description: (
-        <>
-          Developed a robot to detect weak points in oceanic oil pipelines.
-          <ul>
-            <li>Designed and tested sensors to identify variations in metal thickness</li>
-            <li>Contributed to environmental safety by detecting potential pipeline failures</li>
-          </ul>
-        </>
-      ),
+      description:
+        "Developed a robot to detect weak points in oceanic oil pipelines. Designed and tested sensors to identify variations in metal thickness, contributing to environmental safety by detecting potential pipeline failures.",
       logo: "",
       link: {
         label: "LinkedIn Post",
