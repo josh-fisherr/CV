@@ -9,12 +9,12 @@ export const RESUME_DATA = {
     "Software Engineering Student | Passionate about using technology to help people | Founder of Bathroom Hub iOS App | Experienced in C++, Python, Swift, and cloud technologies",
   summary: (
     <>
-      Hi! I'm Joshua Fisher, a software engineering student at Chapman University. 
+      Hi! I&apos;m Joshua Fisher, a software engineering student at Chapman University. 
       I love creating impactful applications and exploring new technologies. My passion lies in solving real-world problems through code and contributing to meaningful projects.
     </>
   ),
   avatarUrl: "https://avatars.githubusercontent.com/josh-fisherr",
-  personalWebsiteUrl: "https://josh-fisherr.vercel.app",
+  personalWebsiteUrl: "",
   contact: {
     email: "joshfisher@chapman.edu",
     tel: "(301) 456-9500",
@@ -53,12 +53,12 @@ export const RESUME_DATA = {
       link: "",
       badges: ["Founder", "iOS Developer"],
       title: "Swift, Firebase, Firestore",
-      logo: "", // Placeholder for a logo
+      logo: "",
       start: "June 2024",
       end: "Present",
       description: (
         <>
-          Designed and developed 'Bathroom Hub,' an iOS app enabling users to find and share bathroom access codes.
+          Designed and developed &apos;Bathroom Hub,&apos; an iOS app enabling users to find and share bathroom access codes.
           <ul>
             <li>Integrated Apple Maps for location tracking</li>
             <li>Used Firebase for secure data storage</li>
@@ -71,7 +71,7 @@ export const RESUME_DATA = {
       link: "",
       badges: ["3D Printing Specialist"],
       title: "Lab Assistant",
-      logo: "", // Placeholder for a logo
+      logo: "",
       start: "Jan 2023",
       end: "Present",
       description: (
@@ -89,14 +89,14 @@ export const RESUME_DATA = {
       link: "",
       badges: ["iOS Development Intern"],
       title: "Swift Developer",
-      logo: "", // Placeholder for a logo
+      logo: "",
       start: "May 2021",
       end: "June 2021",
       description: (
         <>
           Collaborated on mental health-focused apps, learning Swift and improving UX design.
           <ul>
-            <li>Enhanced Ace Parking's interface for user accessibility</li>
+            <li>Enhanced Ace Parking&apos;s interface for user accessibility</li>
             <li>Applied user-centered design principles to improve app usability</li>
           </ul>
         </>
@@ -107,7 +107,7 @@ export const RESUME_DATA = {
       link: "",
       badges: ["Technician"],
       title: "Remote & Onsite Support",
-      logo: "", // Placeholder for a logo
+      logo: "",
       start: "Jan 2021",
       end: "June 2022",
       description: (
@@ -148,7 +148,7 @@ export const RESUME_DATA = {
           </ul>
         </>
       ),
-      logo: "", // Placeholder for a logo
+      logo: "",
       link: {
         label: "GitHub Repo",
         href: "https://github.com/josh-fisherr",
@@ -166,7 +166,7 @@ export const RESUME_DATA = {
           </ul>
         </>
       ),
-      logo: "", // Placeholder for a logo
+      logo: "",
       link: {
         label: "LinkedIn Post",
         href: "https://www.linkedin.com/in/joshua-m-fisherr",
