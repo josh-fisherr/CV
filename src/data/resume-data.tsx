@@ -102,6 +102,7 @@ export const RESUME_DATA = {
     "3D Printing",
     "Laser Cutting",
     "CNC Machines",
+    "Bash",
   ],
   projects: [
     {
